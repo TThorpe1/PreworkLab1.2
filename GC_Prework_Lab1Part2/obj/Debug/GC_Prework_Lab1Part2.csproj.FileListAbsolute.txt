@@ -1,0 +1,11 @@
+C:\Users\thorp\source\repos\GC_Prework_Lab1Part2\GC_Prework_Lab1Part2\bin\Debug\GC_Prework_Lab1Part2.exe.config
+C:\Users\thorp\source\repos\GC_Prework_Lab1Part2\GC_Prework_Lab1Part2\bin\Debug\GC_Prework_Lab1Part2.exe
+C:\Users\thorp\source\repos\GC_Prework_Lab1Part2\GC_Prework_Lab1Part2\bin\Debug\GC_Prework_Lab1Part2.pdb
+C:\Users\thorp\source\repos\GC_Prework_Lab1Part2\GC_Prework_Lab1Part2\obj\Debug\GC_Prework_Lab1Part2.csproj.CoreCompileInputs.cache
+C:\Users\thorp\source\repos\GC_Prework_Lab1Part2\GC_Prework_Lab1Part2\obj\Debug\GC_Prework_Lab1Part2.exe
+C:\Users\thorp\source\repos\GC_Prework_Lab1Part2\GC_Prework_Lab1Part2\obj\Debug\GC_Prework_Lab1Part2.pdb
+C:\Users\thorp\source\repos\GC_Prework_Lab1Part2\GC_Prework_Lab1Part2\obj\Debug\GC_Prework_Lab1Part2.csprojAssemblyReference.cache
+C:\Users\thorp\source\repos\GC_Prework_Lab1Part2\GC_Prework_Lab1Part2\bin\Debug\NodaTime.dll
+C:\Users\thorp\source\repos\GC_Prework_Lab1Part2\GC_Prework_Lab1Part2\bin\Debug\NodaTime.pdb
+C:\Users\thorp\source\repos\GC_Prework_Lab1Part2\GC_Prework_Lab1Part2\bin\Debug\NodaTime.xml
+C:\Users\thorp\source\repos\GC_Prework_Lab1Part2\GC_Prework_Lab1Part2\obj\Debug\GC_Prework_Lab1Part2.csproj.CopyComplete
